@@ -1,0 +1,29 @@
+siteTitle = "Pro Site Starter"
+linkPrefix = "/"
+
+# See https://www.addthis.com/
+addThisPubId = "ra-567cfbf57e3185fc"
+
+# See https://www.google.com/adsense
+googleAdsensePubId = "ca-pub-8957480558308909"
+
+# See https://www.google.com/analytics
+googleAnalyticsId = "UA-64634933-3"
+
+# See https://developers.facebook.com/apps/
+facebookAppId = "216977115409617"
+
+# Root URL of published (public) website
+#  Used to create full URLs
+rootUrl = "https://angulartoreact.com"
+
+organizationName = "Angular to React"
+
+# If using AMP, ideally 600px wide x 60px high
+# See https://developers.google.com/search/docs/data-types/articles#amp_logo_guidelines
+logoPath = "/logo.jpg"
+logoWidth = 600
+logoHeight = 60
+
+# See https://twitter.com/
+twitterHandle = "@AngularToReact"

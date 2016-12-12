@@ -1,0 +1,43 @@
+.vertical-menu {
+	margin-bottom: 35px;
+}
+
+.vertical-menu h5 {
+	color: #444;
+	font-weight: bold;
+	font-size: 16px;
+	margin:0 0 0 0;
+}
+
+.vertical-menu ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+  border: none;
+  border-radius: 0;
+}
+
+.vertical-menu ul li {
+	margin: 0;
+	margin: 0;
+	padding: 5px 0 5px 0;
+	line-height: 17px;
+	padding: 5px 0 5px 0;
+	border-top: none;
+}
+
+.vertical-menu ul li a {
+	color: #444;
+	text-decoration: none;
+	font-size: 12px;
+	line-height: 12px;
+}
+
+.vertical-menu ul li a:hover {
+	color: black;
+	text-decoration: underline;
+}
+
+.vertical-menu ul li:first-child {
+	border-top: none;
+}
