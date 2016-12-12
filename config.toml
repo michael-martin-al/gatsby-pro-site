@@ -2,20 +2,20 @@ siteTitle = "Pro Site Starter"
 linkPrefix = "/"
 
 # See https://www.addthis.com/
-addThisPubId = "ra-567cfbf57e3185fc"
+addThisPubId = "ra-584e15f57523f86a"
 
 # See https://www.google.com/adsense
 googleAdsensePubId = "ca-pub-8957480558308909"
 
 # See https://www.google.com/analytics
-googleAnalyticsId = "UA-64634933-3"
+googleAnalyticsId = "UA-64634933-5"
 
 # See https://developers.facebook.com/apps/
 facebookAppId = "216977115409617"
 
 # Root URL of published (public) website
 #  Used to create full URLs
-rootUrl = "https://angulartoreact.com"
+rootUrl = "https://gatsby-pro-site-starter.firebaseapp.com"
 
 organizationName = "Angular to React"
 
